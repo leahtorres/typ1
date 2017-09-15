@@ -1,0 +1,30 @@
+
+/* Check out different colors here: https://www.materialpalette.com/ */
+.orange {
+	background-color:#FF6501;
+  display: flex;
+  height: 20vh;
+}
+
+.light_blue {
+  background-color: #01329C;
+   display: flex;
+  height: 20vh;
+}
+
+.green {
+  background-color: #0c8542;
+  display: flex;
+  height: 20vh;
+}
+.red {
+  background-color:#CC0001;
+  display: flex;
+  height: 20vh;
+}
+.pink {
+background-color: #ffb6c1;
+  display: flex;
+  height: 20vh;
+}
+
